@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mary's Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css"/>
+
+<html>
+    <body>
+        <header class="headernav">
+            <nav class="navigation">
+                <a href="../../index.html" class="nav-button">Home</a>
+                <a href="../about-me/index.html" class="nav-button">About</a>
+                <a href="../projects/index.html" class="nav-button">Projects</a>
+                <a href="../credits/index.html" class="nav-button">Credits</a>
+                <a href="../contact/index.html" class="nav-button">Contact</a>
+                <a href="" class="active-button">Feedback</a>
+            </nav>
+        </header>
+
+        <main class="feedback-main">
+            <h1>Rate my Work</h1>
+            <p>There's always room for improvement</p>
+            <div class="feedback-container">
+                <form id="feedbackForm" action="https://script.google.com/macros/s/AKfycbyQlV_OwD5kfh2R4Ql1S7pFkY1JsSfO4WTAZO8YkeF60pIjG0MamcAQlkbty5FHDTGhzw/exec" method="POST" target="_self">
+                    <div class="emoji-rating">
+                        <label>
+                            <input type="radio" name="rating" value="angry" required>
+                            <img src="./assets/img/angry.png" alt="Angry" class="emoji">
+                        </label>
+                        <label>
+                            <input type="radio" name="rating" value="sad">
+                            <img src="./assets/img/sad.png" alt="Sad" class="emoji">
+                        </label>
+                        <label>
+                            <input type="radio" name="rating" value="neutral">
+                            <img src="./assets/img/flat.png" alt="Neutral" class="emoji">
+                        </label>
+                        <label>
+                            <input type="radio" name="rating" value="happy">
+                            <img src="./assets/img/happy.png" alt="Happy" class="emoji">
+                        </label>
+                        <label>
+                            <input type="radio" name="rating" value="very-happy">
+                            <img src="./assets/img/super happy.png" alt="Very Happy" class="emoji">
+                        </label>
+                    </div>
+                    
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                    
+                    <label for="comments">Comments:</label>
+                    <textarea id="comments" name="comments"></textarea>
+                    
+                    <button type="submit">RATE</button>
+                </form>
+            </div>
+        </main>
+
+        <footer class="footer">
+            <div class="footer-content">
+                <div class="social-media">
+                    <a href="https://www.facebook.com/maryann.camacho.129/"><i class="fab fa-facebook"></i></a>
+                    <a href="https://x.com/maryannbc12"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.instagram.com/mary_notmery/"><i class="fab fa-instagram"></i></a>
+                    <p>All Contents Are For Educational Purposes Only</p>
+                    <p>&copy; 2024 yram-nna12. All rights reserved.</p>
+                </div>
+            </div>
+        </footer>
+        
+        <script src="./assets/js/scripy.js"></script>
+    </body>
+</html>
