@@ -114,81 +114,87 @@ Your feedback is valuable! If you have any questions, suggestions, or would like
 
 ### File Structure
 
-WD-Final-Project/
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── img/
-│   │   ├── bgmain.jpg
-│   │   ├── bgmain2.jpg
-│   │   └── logoforheader.png
-│   └── js/
-│       └── script.js
-├── pages/
-│   ├── about-me/
-│   │   ├── assets/
-│   │   │   ├── css/
-│   │   │   │   └── style.css
-│   │   │   ├── img/
-│   │   │   │   ├── bgmain.jpg
-│   │   │   │   ├── bgmain2.jpg
-│   │   │   │   └── logoforheader.png
-│   │   │   └── js/
-│   │   │       └── script.js
-│   │   └── index.html
-│   ├── contact/
-│   │   ├── assets/
-│   │   │   ├── css/
-│   │   │   │   └── style.css
-│   │   │   ├── img/
-│   │   │   │   ├── bgmain.jpg
-│   │   │   │   ├── bgmain2.jpg
-│   │   │   │   └── logoforheader.png
-│   │   │   └── js/
-│   │   │       └── script.js
-│   │   └── index.html
-│   ├── credits/
-│   │   ├── assets/
-│   │   │   ├── css/
-│   │   │   │   └── style.css
-│   │   │   ├── img/
-│   │   │   │   ├── bgmain.jpg
-│   │   │   │   ├── bgmain2.jpg
-│   │   │   │   └── logoforheader.png
-│   │   │   └── js/
-│   │   │       └── script.js
-│   │   └── index.html
-│   ├── feedback/
-│   │   ├── assets/
-│   │   │   ├── css/
-│   │   │   │   └── style.css
-│   │   │   ├── img/
-│   │   │   │   ├── bgmain.jpg
-│   │   │   │   ├── bgmain2.jpg
-│   │   │   │   └── logoforheader.png
-│   │   │   └── js/
-│   │   │       └── script.js
-│   │   └── index.html
-│   └── projects/
-│       ├── assets/
-│       │   ├── css/
-│       │   │   └── style.css
-│       │   ├── img/
-│       │   │   ├── bgmain.jpg
-│       │   │   ├── bgmain2.jpg
-│       │   │   └── logoforheader.png
-│       │   └── js/
-│       │       └── script.js
-│       └── index.html
-├── index.html
-└── README.md
+WD-Final-Project
+|
+└─ assets
+|   └─ css
+|   |   └─ style.css
+|   └─ img
+|   |   └─ bgmain.jpg
+|   |   └─ bgmain2.jpg
+|   |   └─ logoforheader.png
+|   └─ js
+|       └─ script.js
+|
+└─ pages
+|   └─ about-me
+|   |   └─ assets
+|   |   |   └─ css
+|   |   |   |   └─ style.css
+|   |   |   └─ img
+|   |   |   |   └─ bgmain.jpg
+|   |   |   |   └─ bgmain2.jpg
+|   |   |   |   └─ logoforheader.png
+|   |   |   └─ js
+|   |   |       └─ script.js
+|   |   └─ index.html
+|   |
+|   └─ contact
+|   |   └─ assets
+|   |   |   └─ css
+|   |   |   |   └─ style.css
+|   |   |   └─ img
+|   |   |   |   └─ bgmain.jpg
+|   |   |   |   └─ bgmain2.jpg
+|   |   |   |   └─ logoforheader.png
+|   |   |   └─ js
+|   |   |       └─ script.js
+|   |   └─ index.html
+|   |
+|   └─ credits
+|   |   └─ assets
+|   |   |   └─ css
+|   |   |   |   └─ style.css
+|   |   |   └─ img
+|   |   |   |   └─ bgmain.jpg
+|   |   |   |   └─ bgmain2.jpg
+|   |   |   |   └─ logoforheader.png
+|   |   |   └─ js
+|   |   |       └─ script.js
+|   |   └─ index.html
+|   |
+|   └─ feedback
+|   |   └─ assets
+|   |   |   └─ css
+|   |   |   |   └─ style.css
+|   |   |   └─ img
+|   |   |   |   └─ bgmain.jpg
+|   |   |   |   └─ bgmain2.jpg
+|   |   |   |   └─ logoforheader.png
+|   |   |   └─ js
+|   |   |       └─ script.js
+|   |   └─ index.html
+|   |
+|   └─ projects
+|       └─ assets
+|       |   └─ css
+|       |   |   └─ style.css
+|       |   └─ img
+|       |   |   └─ bgmain.jpg
+|       |   |   └─ bgmain2.jpg
+|       |   |   └─ logoforheader.png
+|       |   └─ js
+|       |       └─ script.js
+|       └─ index.html
+|
+└─ index.html
+└─ README.md
 
 ### Deployment Instructions
 
 To deploy this website, you have two options. First, clone the repository locally using Git, navigate to the project directory, and open the index.html file in your web browser to view the site. Alternatively, for online deployment, create a GitHub repository, push your code to GitHub, and enable GitHub Pages from your repository settings by selecting the main branch and root folder. Once deployed, your website will be accessible at the designated GitHub Pages URL. Ensure all links and functionalities are working correctly in the deployed version to provide a seamless user experience.
 
 ## Resources
-
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
@@ -198,8 +204,8 @@ To deploy this website, you have two options. First, clone the repository locall
 | Appscript | for linking forms | [Link](https://script.google.com/home) |
 | Pinterest |Reference for Page layout | [Link](https://ph.pinterest.com/) |
 
-### My Projects
 
+### My Projects
 Explore my project repository: 
 - [WD-Seatwork 2](https://github.com/yram-nna12/WD-Seatwork2.git)
 - [WD-Hands On 2](https://github.com/yram-nna12/WD-Hands-On-2.git)
@@ -207,6 +213,7 @@ Explore my project repository:
 - [WD-Seatwork 4](https://github.com/yram-nna12/WD-Seatwork-4.git)
 
 
-### WakaTime Integration
 
-Track my coding activity on: [WakaTime](https://wakatime.com/projects/WD-Final-Activity?start=2024-07-09&end=2024-07-15)
+### WakaTime Integration
+Track my coding activity on: 
+[WakaTime](https://wakatime.com/projects/WD-Final-Activity?start=2024-07-09&end=2024-07-15)
