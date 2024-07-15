@@ -42,7 +42,7 @@ This website functions as an extensive portfolio showcasing creativity and techn
     <li>
       <a href="#resources">Resources</a>
       <li>
-      <a href="#Instruction">Resources</a>
+      <a href="#Instruction">Instructions</a>
     </li>
     </li>
   </ol>
