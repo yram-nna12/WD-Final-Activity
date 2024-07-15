@@ -59,14 +59,11 @@ body {
     min-height: 100vh; 
     text-align: center; 
     overflow: hidden; 
-    background-image: url('../img/bgforabtme.jpg'); 
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
 }
 
 .static-title {
     font-size: 2rem;
+    margin-top: -1.5rem;
     font-weight: 1000;
     margin-bottom: 0.5rem;
     z-index: 1; 
@@ -84,37 +81,51 @@ body {
 .slides {
     position: relative;
     width: 80%;
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto;
     overflow: hidden;
     z-index: 1; 
-    padding: 20px;
-    border-radius: 10px;
+    padding: 12px;
 }
 
 .slide {
     display: none;
-    text-align: center;
+    text-align: left;
     animation: fade 1s ease-in-out;
 }
 
 .slide.active {
-    display: block;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.slide-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
 }
 
 .slide img {
-    width: 50%;
+    width: 40%;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
 }
 
-.slide h2 {
+.text-content {
+    width: 50%;
+}
+
+.text-content h2 {
     margin-top: 1rem;
     font-size: 1.5rem;
     color: #333;
 }
 
-.slide p {
+.text-content p {
     margin-top: 1rem;
     font-size: 1.2rem;
     color: #333;
@@ -158,12 +169,12 @@ body {
 
 .summary-container {
     padding: 30px;
-    background-color: #c79a75;
+    background-color: #ffffff;
     text-align: center;
 }
 
 .stat-title {
-    color: #5a3c24;
+    color: #8E5E37;
     margin-bottom: 1rem;
 }
 
@@ -172,10 +183,11 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
+    margin-bottom: 1.5rem;
 }
 
 .summary-item {
-    background: #fff;
+    background: #F1EBE5;
     width: 200px;
     padding: 20px;
     border-radius: 10px;
@@ -223,6 +235,7 @@ body {
     padding: 50px;
     background-color: #f1ebe5;
     text-align: center;
+    margin-top: 1.5rem;
 
     & h1 {
         font-size: 35px;
