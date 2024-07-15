@@ -115,7 +115,6 @@ Your feedback is valuable! If you have any questions, suggestions, or would like
 ### File Structure
 
 WD-Final-Project/
-│
 ├── assets/
 │   ├── css/
 │   │   └── style.css
@@ -125,7 +124,6 @@ WD-Final-Project/
 │   │   └── logoforheader.png
 │   └── js/
 │       └── script.js
-│
 ├── pages/
 │   ├── about-me/
 │   │   ├── assets/
@@ -138,7 +136,6 @@ WD-Final-Project/
 │   │   │   └── js/
 │   │   │       └── script.js
 │   │   └── index.html
-│   │
 │   ├── contact/
 │   │   ├── assets/
 │   │   │   ├── css/
@@ -150,7 +147,6 @@ WD-Final-Project/
 │   │   │   └── js/
 │   │   │       └── script.js
 │   │   └── index.html
-│   │
 │   ├── credits/
 │   │   ├── assets/
 │   │   │   ├── css/
@@ -162,7 +158,6 @@ WD-Final-Project/
 │   │   │   └── js/
 │   │   │       └── script.js
 │   │   └── index.html
-│   │
 │   ├── feedback/
 │   │   ├── assets/
 │   │   │   ├── css/
@@ -174,7 +169,6 @@ WD-Final-Project/
 │   │   │   └── js/
 │   │   │       └── script.js
 │   │   └── index.html
-│   │
 │   └── projects/
 │       ├── assets/
 │       │   ├── css/
@@ -186,7 +180,6 @@ WD-Final-Project/
 │       │   └── js/
 │       │       └── script.js
 │       └── index.html
-│
 ├── index.html
 └── README.md
 
