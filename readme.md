@@ -35,15 +35,18 @@ This website functions as an extensive portfolio showcasing creativity and techn
           <a href="#key-components">Key Components</a>
         </li>
         <li>
-          <a href="#resources">Resources</a>
-        </li>
-        <li>
-          <a href="#instruction">Instruction</a>
+          <a href="#technology">Technology</a>
         </li>
       </ol>
+    </li>
+    <li>
+      <a href="#resources">Resources</a>
+      <li>
+      <a href="#Instruction">Resources</a>
+    </li>
+    </li>
   </ol>
 </details>
-
 ---
 
 ## Overview
