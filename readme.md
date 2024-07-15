@@ -78,26 +78,20 @@ Technologically, the project leverages HTML for structuring content, CSS for sty
 1. Navigation: Start by using the top navigation menu, located at the header. It features links to different sections of the website, including "Home," "About," "Projects," etc. Click on any of these links to navigate directly to the respective pages.
 
 2. Exploring Pages: 
-Home: Begin your journey here to get an overview of the website's purpose and key sections.
-
-About: Learn more about me, my background, skills, and interests. Scroll through the page or use the navigation buttons to explore different sections.
-
-Projects: Dive into a showcase of my past projects. Each project entry includes a brief description, links to repositories, and details on technologies used. Click on project titles or images to view more.
-
-Resume: Access a detailed summary of my skills, qualifications, and professional experience. Navigate through different sections to get a comprehensive view.
-
-Contact: Connect with me through various social media platforms or via email. Use the provided contact form to send a message directly.
+- Home: Begin your journey here to get an overview of the website's purpose and key sections.
+- About: Learn more about me, my background, skills, and interests. Scroll through the page or use the navigation buttons to explore different sections.
+- Projects: Dive into a showcase of my past projects. Each project entry includes a brief description, links to repositories, and details on technologies used. Click on project titles or images to view more.
+- Resume: Access a detailed summary of my skills, qualifications, and professional experience. Navigate through different sections to get a comprehensive view.
+- Contact: Connect with me through various social media platforms or via email. Use the provided contact form to send a message directly.
 
 3. Interactive: 
-Project Showcase: Interact with project entries to explore detailed descriptions and technical insights.
-
-Navigation Buttons: Use buttons strategically placed throughout the website for seamless navigation between sections and pages.
-
-Social Media Links: Connect with me on social media platforms by clicking on the icons located in the footer section of each page.
+- Project Showcase: Interact with project entries to explore detailed descriptions and technical insights.
+- Navigation Buttons: Use buttons strategically placed throughout the website for seamless navigation between sections and pages.
+- Social Media Links: Connect with me on social media platforms by clicking on the icons located in the footer section of each page.
 
 4. Accessibility: The website is designed to be responsive, ensuring optimal viewing across devices of different screen sizes. Enjoy a consistent and user-friendly experience whether you're using a desktop, tablet, or mobile phone.
 
-5. Feedback and Contact: 
+5. Feedback and Contact:
 Your feedback is valuable! If you have any questions, suggestions, or would like to discuss potential collaborations, feel free to reach out via the contact form or social media links provided. I look forward to hearing from you!
 
 ## Resources
@@ -109,4 +103,5 @@ Your feedback is valuable! If you have any questions, suggestions, or would like
 | Google | Reference for other Pictures | [Link](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwi0-Za1kIGHAxX_QfUHHfumBSIQPAgJ) |
 | nicepage | Ideas for Page layout | [Link](https://nicepage.com/) |
 | Appscript | for linking forms | [Link](https://script.google.com/home) |
+| Pinterest |Reference for Page layout | [Link](https://ph.pinterest.com/) |
 
