@@ -58,6 +58,14 @@ This website functions as an extensive portfolio showcasing creativity and techn
     </li>
     <li>
       <a href="# WakaTime Integration">WakaTime Integration</a>
+      <ol>
+        <li>
+          <a href="#Coding Acitivity">Coding Acitivity</a>
+        </li>
+        <li>
+          <a href="#Languages">Languages</a>
+        </li>
+      </ol>
     </li>
     </li>
   </ol>
@@ -191,6 +199,15 @@ WD-Final-Project
 
 To deploy this website, you have two options. First, clone the repository locally using Git, navigate to the project directory, and open the index.html file in your web browser to view the site. Alternatively, for online deployment, create a GitHub repository, push your code to GitHub, and enable GitHub Pages from your repository settings by selecting the main branch and root folder. Once deployed, your website will be accessible at the designated GitHub Pages URL. Ensure all links and functionalities are working correctly in the deployed version to provide a seamless user experience.
 
+
+### My Projects
+Explore my project repository: 
+- [WD-Seatwork 2](https://github.com/yram-nna12/WD-Seatwork2.git)
+- [WD-Hands On 2](https://github.com/yram-nna12/WD-Hands-On-2.git)
+- [WD-Seatwork 3](https://github.com/yram-nna12/WD-Seatwork3.git)
+- [WD-Seatwork 4](https://github.com/yram-nna12/WD-Seatwork-4.git)
+
+
 ## Resources
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
@@ -202,15 +219,14 @@ To deploy this website, you have two options. First, clone the repository locall
 | Pinterest |Reference for Page layout | [Link](https://ph.pinterest.com/) |
 
 
-### My Projects
-Explore my project repository: 
-- [WD-Seatwork 2](https://github.com/yram-nna12/WD-Seatwork2.git)
-- [WD-Hands On 2](https://github.com/yram-nna12/WD-Hands-On-2.git)
-- [WD-Seatwork 3](https://github.com/yram-nna12/WD-Seatwork3.git)
-- [WD-Seatwork 4](https://github.com/yram-nna12/WD-Seatwork-4.git)
-
-
-
 ### WakaTime Integration
 Track my coding activity on: 
 [WakaTime](https://wakatime.com/@018f02f8-3e41-49f0-93c6-1b840df169b8)
+
+### Coding Acitivity
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018f02f8-3e41-49f0-93c6-1b840df169b8/e0f55e81-014a-48cf-9ba6-592ac1495765.png" /></a>
+
+### Languages
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018f02f8-3e41-49f0-93c6-1b840df169b8/d0dfd58a-5960-4e3e-b06d-4cbe20bf89a2.png" /></a>
