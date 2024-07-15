@@ -213,4 +213,4 @@ Explore my project repository:
 
 ### WakaTime Integration
 Track my coding activity on: 
-[WakaTime](https://wakatime.com/projects/WD-Final-Activity?start=2024-07-09&end=2024-07-15)
+[WakaTime](https://wakatime.com/@018f02f8-3e41-49f0-93c6-1b840df169b8)
